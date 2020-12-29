@@ -1,5 +1,9 @@
 # Hypercube_Evolution_MGN12H
 Motion &amp; Extrusion Platform
+![Image of Hypercube_Evolution_MGN12H](https://drive.google.com/drive/folders/17dp5-F7Nka7jODrHOUH8v5R7ou0Mpgfl)
+
+---
+
 # Introduction
 Hypercube_Evolution_MGN12H embraces the Hypercube Evolution design philosophy of being a CoreXY printer using 30x30mm aluminum extrusions for the mainframe and the components being tucked in the sides to make it easily enclosed. But improves upon the rigidity by using MGN12H liner rails in conjunction with thicker 3D printed components.
 
