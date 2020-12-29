@@ -35,7 +35,7 @@ Shout out to the people in the "[Hypercube Evolution Pro modified](https://www.f
 
 # Bill of Materials
 
-##Bolts
+## Bolts
 Size | Length | Type | Quantity
 --- | --- | --- | --- |
 M6 | 15mm | Button Head | 30
@@ -54,7 +54,7 @@ M3 | 6mm | Socket Head | (total # of mounting holes in the MGN12H rails for the 
 M2 | 12mm | Socket Head | 10
 In Working Progress...
 
-##Nuts
+## Nuts
 Size | Type | Quantity
 --- | --- | --- |
 M6 | for 30x30mm Extrusions | 30
@@ -66,7 +66,7 @@ M3 | Standard Hex | 24
 M2 | Standard Hex | 4
 In Working Progress...
 
-##Electrical Components
+## Electrical Components
 Components | Names & Spcifications | Quantity
 --- | --- | --- |
 Hotend | E3D V6 | 1
@@ -77,7 +77,7 @@ Stepper Motor (Extruder) | NEMA 17 / Body Length: < 31mm | 1
 Stepper Motor (Z Axis) |  NEMA 17 / Body Length: < 60mm / Integrated Lead Screw Length: (in Calculator) | 2
 In Working Progress...
 
-##Mechanical Components
+## Mechanical Components
 Components | Spcifications | Quantity
 --- | --- | --- |
 Extruder | Bondtech BMG | 1
