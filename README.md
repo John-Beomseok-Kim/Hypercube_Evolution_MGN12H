@@ -1,6 +1,6 @@
 # Hypercube_Evolution_MGN12H
 Motion &amp; Extrusion Platform
-![Image of Hypercube_Evolution_MGN12H](https://drive.google.com/drive/folders/17dp5-F7Nka7jODrHOUH8v5R7ou0Mpgfl)
+![Image of Hypercube_Evolution_MGN12H](file:///Users/peterkim/Desktop/Hypercube_Evolution_MGN12H%20(v69~recovered).png)
 
 ---
 
