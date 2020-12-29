@@ -44,9 +44,9 @@ Size | Length | Type | Quantity
 M6 | 15mm | Button Head | 30
 M5 | 12mm | Button Head | 8
 M5 | 10mm | Button Head | 10
-M5 | 30mm | Socket Head | 8
-M3 | 40mm | Socket Head | 12
-M3 | 30mm | Socket Head | 1
+M3 | 40mm | Socket Head | 8
+M3 | 35mm | Socket Head | 6
+M3 | 30mm | Socket Head | 4
 M3 | 25mm | Socket Head | 8
 M3 | 18mm | Socket Head | 2
 M3 | 16mm | Socket Head | 2
@@ -64,9 +64,9 @@ M6 | for 30x30mm Extrusions | 30
 M3 | for 30x30mm Extrusions | (total # of mounting holes in the MGN12H rails for the 30x30mm Extrusion) 
 M5 | for 20x20mm Extrusions | 18
 M3 | for 15x15mm Extrusion | 6 + (total # of mounting holes in the MGN12H rails for the 15x15mm Extrusion) 
-M5 | Standard Hex | 8
-M3 | Standard Hex | 24
+M3 | Standard Hex | 19
 M2 | Standard Hex | 4
+
 In Working Progress...
 
 ## Electrical Components
