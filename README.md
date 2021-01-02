@@ -2,7 +2,6 @@
 ![Hypercube_Evolution_MGN12H](https://user-images.githubusercontent.com/76419272/103253257-bfc8f280-49c3-11eb-84ce-4ab36692c6be.png)
 
 ---
-
 # Introduction
 Hypercube_Evolution_MGN12H embraces the Hypercube Evolution design philosophy of being a CoreXY printer using 30x30mm aluminum extrusions for the mainframe and the components being tucked in the sides to make it easily enclosed. But improves upon the rigidity by using MGN12H liner rails in conjunction with thicker 3D printed components.
 
@@ -11,13 +10,12 @@ This design is a motion and execution platform for a 3D printer. Components like
 Shout out to the people in the "[Hypercube Evolution Pro modified](https://www.facebook.com/groups/hevopro/)" Facebook group for helping me designing this printer.
 
 ---
-
-# Print Settings
+# Recomended Print Settings
 - **Filament Material:** PETG, ABS, ASA
 - **Layer Hight:** 0.2mm
 - **Extrusion Width:** 0.4mm
 - **Infill Percentage:** >30%
-- **Infill Pattern:** "Tri-Haxagon[Cura]
+- **Infill Pattern:** "Tri-Haxagon"[Cura]
 - **Supports:** NO
 - **Ironing Pattern:** Zig Zag[Cura]
 - **Brim Line (Count / Width):** 15 Lines / 6mm
@@ -25,17 +23,15 @@ Shout out to the people in the "[Hypercube Evolution Pro modified](https://www.f
 - **Top & Bottom Layer (Count / Thickness):** 8 Layers / 1.6mm
 
 ---
-
 # [Alternitive 3D Files (Fusion 360 / STEP / OBJ / etc.) / Exsprimental Components Link](https://a360.co/33fj55M)
 
 ---
-
 # [Calculator Link: Liner Rail & Aluminum Extrusion Length](https://docs.google.com/spreadsheets/d/1z5ObTX2y20HfxdOqHHtOSIN-e-pqkRhXmnSUIc6pu8w/edit?usp=sharing)
-## How to use the calculator (little bit rough in quality): 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c40CwL1CLM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## How to use the calculator (little bit rough in quality):
+[![](http://img.youtube.com/vi/7c40CwL1CLM/0.jpg)](http://www.youtube.com/watch?v=7c40CwL1CLM "How to Use the Calculator")
 
 ---
-
 # Bill of Materials
 
 ## Bolts
@@ -55,7 +51,6 @@ M3 | 10mm | Socket Head | (total # of mounting holes in the MGN12H rails for the
 M3 | 8mm | Socket Head | 29
 M3 | 6mm | Socket Head | (total # of mounting holes in the MGN12H rails for the 15x15mm Extrusion) 
 M2 | 12mm | Socket Head | 10
-In Working Progress...
 
 ## Nuts
 Size | Type | Quantity
@@ -67,8 +62,6 @@ M3 | for 15x15mm Extrusion | 6 + (total # of mounting holes in the MGN12H rails 
 M3 | Standard Hex | 19
 M2 | Standard Hex | 4
 
-In Working Progress...
-
 ## Electrical Components
 Components | Names & Spcifications | Quantity
 --- | --- | --- |
@@ -78,7 +71,6 @@ Z-probe | BL touch v3 | 1
 Stepper Motor (XY Axis) | NEMA 17 / Body Length: < 45mm | 2
 Stepper Motor (Extruder) | NEMA 17 / Body Length: < 31mm | 1
 Stepper Motor (Z Axis) |  NEMA 17 / Body Length: < 60mm / Integrated Lead Screw Length: (in Calculator) | 2
-In Working Progress...
 
 ## Mechanical Components
 Components | Spcifications | Quantity
@@ -90,4 +82,3 @@ Timming Belt | GT2® / Width: 6mm Belt / Length: in Calculator | 2
 30x30 Aluminum Extrusions | Lengths: (in Calculator) | (in Calculator)
 20x20 Aluminum Extrusions | Lengths: (in Calculator) | (in Calculator)
 15x15 Aluminum Extrusion | Length: (in Calculator) | 1
-In Working Progress...
